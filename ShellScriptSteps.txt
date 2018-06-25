@@ -1,0 +1,12 @@
+Steps
+
+1.generate jar using maven command
+  mvn clean install
+
+2. Copy the jar to a location.
+
+3.Open the attached start.sh shell script file.
+
+4. Specify the jar loaction in start.sh file.
+
+5.run start.sh file from cygwin terminal or linux terminal.
